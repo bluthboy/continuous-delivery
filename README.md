@@ -1,6 +1,6 @@
 # Continuous Delivery with Maven, Puppet and Tomcat 
 
-Examples of setting up a continuous delivery process using Maven, Tomcat, Docker, Puppet, Vagrant, Jenkins,
+Examples of setting up a cool continuous delivery process using Maven, Tomcat, Docker, Puppet, Vagrant, Jenkins,
 Cucumber, Beaker and other helpful tools for my talks.
 Evolved through the different talks, unsing latest tools.
 
